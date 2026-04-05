@@ -2,7 +2,7 @@
 
 > **Database and table creation was carried out using `pgAdmin4`, ensuring a structured and efficient setup.**
 
-This project is a **Java-based console banking application** developed using **JDBC and PostgreSQL** as part of the **Virtusa Pre-Onboarding Training Assignment**.
+This project is a **Java-based console banking application** developed using `JDBC` and `PostgreSQL` as part of the **Virtusa Pre-Onboarding Training Assignment**.
 
 The system is designed to simulate real-world banking operations, including account management, transaction processing, reporting, and fraud detection using database-level logic.
 
