@@ -155,7 +155,7 @@ Update credentials in `DBConnection.java`:
 ---
 
 ## 📑 Submission
-- Prepared by: Kamani Shivani
+- Prepared by: `Kamani Shivani`
 - Virtusa Pre-Onboarding Training Assignment
 - Developed as a `Java use case project`, demonstrating JDBC integration, PostgreSQL database management, and database-level fraud detection using triggers
 ---
