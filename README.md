@@ -1,4 +1,5 @@
 #  Java-Based Secure Banking Transaction System with Analytics & Fraud Detection
+### *(Java Use Case with JDBC and PostgreSQL Integration)*
 
 > **Database and table creation was carried out using `pgAdmin4`, ensuring a structured and efficient setup.**
 
@@ -154,8 +155,11 @@ Update credentials in `DBConnection.java`:
 
 ---
 
-## 📑 Submission
-- Prepared by: `Kamani Shivani`
-- Virtusa Pre-Onboarding Training Assignment
-- Developed as a `Java use case project`, demonstrating JDBC integration, PostgreSQL database management, and database-level fraud detection using triggers
+# 📑 Submission
+
+* `Prepared by:` Kamani Shivani
+* `Project Title:` Java Based Secure Banking Transaction System with Analytics & Fraud Detection
+* `Type:` Java-Based Use Case Project with JDBC, PostgreSQL Integration, and Trigger-Based Fraud Detection
+* `Submitted for:` Virtusa Pre-Onboarding Training Assignment
+
 ---
